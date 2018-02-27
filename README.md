@@ -1,4 +1,4 @@
-以识别MNIST数据集练习神经网络
+以识别MNIST数据集练习神经网络<br>
 ANN.py:
 	按照面向对象的思想实现全连接神经网络，定义Node，layer，Connection对象，并定义对外的接口类Network。并含梯度检查的代码。
 FullConnectedLayer.py:
